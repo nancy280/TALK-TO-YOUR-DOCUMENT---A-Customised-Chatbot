@@ -1,0 +1,6 @@
+download the llama-2-7b-chat.ggmlv3.q4_0.bin file from "https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/blob/main/llama-2-7b-chat.ggmlv3.q4_0.bin" and store it in the same directory as the others
+
+now install python libraries by writing the following command in terminal
+
+pip install gradio
+pip install langchain
