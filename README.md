@@ -1,6 +1,6 @@
 what is it?
-A customised chatbot for your personal use, accelerating the power of Llama2
-A chatbot that lets you talk with your own document in natural language
+A customised chatbot for your personal use, accelerating the power of Llama2.
+A chatbot that lets you talk with your own document in natural language.
 One can just upload there document, it would first be preprocessed using RecursiveChracterTextSplitter and then embedding will be created to store in FAISS vector store and then it would be fed to question answering chain with Llama2 to interpret it after someone asks a question using gradio interface 
 
 Llama2 - 
